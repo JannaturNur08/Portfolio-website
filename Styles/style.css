@@ -159,43 +159,44 @@ padding-top: 10px;
 
 .Plan-heading{
     color:  #151414;
-
+    
 font-size: 40px;
 
 font-weight: 700;
 text-align: center;
-
+padding-left: 150px;
 }
 .plan-section{
     display: flex;
     gap: 100px;
   
-    border: 1px solid salmon;
     padding-left: 400px;
     padding-top: 50px;
     position: relative;
 }
-.plan-details{
-   border: 1px solid salmon;
-}
+
 .icon{
     width: 92.958px;
 height: 92.958px; 
+
  padding-left: 50px;
 } 
+#web-icon{
+    margin-left: 40px;
+}
 .icon-title{
     color:  #151414;
 text-align: center;
-font-family: Work Sans;
+
 font-size: 30px;
 
-font-weight: 700;
+ font-weight: 700;
 
 }
 .plan-description{
     color: #737272;
 text-align: center;
-font-family: Work Sans;
+
 font-size: 25px;
 
 font-weight: 500;
