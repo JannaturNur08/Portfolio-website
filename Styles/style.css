@@ -270,3 +270,24 @@
     background: #FFF;
     margin-top: 30px;
 }
+
+
+/* footer section */
+.footer-container{
+    height: 577px;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid salmon;
+    margin-top: 130px ;
+    background: var(--dark-01, #151414);
+    color:#F8F8F8 ;
+    padding-top: 130px;
+}
+
+#text-area{
+    width: 325px;
+height: 64px;
+
+border-radius: 8px;
+border: 1px solid #FFF;
+}
